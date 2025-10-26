@@ -5,6 +5,9 @@ This project aims to support early identification of distress signals and promot
 
 ---
 
+![Project Logo](https://img.shields.io/badge/Streamlit-Deployed-green)
+**Deployed Application:** [Visit the App](https://sruthi-email-spam-detect.streamlit.app/)
+
 You can try the Suicide Risk Detection app live here:  
 
 [💬 Open Suicide Risk Detection App](https://suicide-risk-detection-from-tweets-using-nlp-cfwhect59jva9pmv6.streamlit.app/)  
