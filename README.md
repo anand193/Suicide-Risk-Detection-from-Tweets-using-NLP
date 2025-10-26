@@ -6,11 +6,10 @@ This project aims to support early identification of distress signals and promot
 ---
 
 ![Project Logo](https://img.shields.io/badge/Streamlit-Deployed-green)
-**Deployed Application:** [Visit the App](https://sruthi-email-spam-detect.streamlit.app/)
+**Deployed Application:** [Visit the App](https://suicide-risk-detection-from-tweets-using-nlp-cfwhect59jva9pmv6.streamlit.app/)
 
-You can try the Suicide Risk Detection app live here:  
-
-[💬 Open Suicide Risk Detection App](https://suicide-risk-detection-from-tweets-using-nlp-cfwhect59jva9pmv6.streamlit.app/)  
+This repository hosts the **Suicide Risk Detection from Tweets** project, an interactive web app built using **Python and Streamlit**.  
+It uses a trained **Machine Learning model** to classify tweets as **Potential Suicide Post** or **Not Suicide Post**, helping to identify early warning signs and promote mental health awareness.
 
 ---
 
