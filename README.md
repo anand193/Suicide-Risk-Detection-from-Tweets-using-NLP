@@ -1,10 +1,5 @@
 # 💬 Suicide Risk Detection from Tweets using NLP
 
-A **Machine Learning–powered Streamlit web app** that detects potential suicide risk in tweets based on emotional and linguistic patterns.  
-This project aims to support early identification of distress signals and promote mental health awareness using **Natural Language Processing (NLP)**.
-
----
-
 ![Project Logo](https://img.shields.io/badge/Streamlit-Deployed-green)
 **Deployed Application:** [Visit the App](https://suicide-risk-detection-from-tweets-using-nlp-cfwhect59jva9pmv6.streamlit.app/)
 
